@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Photo Store</title>
+</head>
+<body>
+  <h1>Welcome to My Photo Store</h1>
+  <img src="rakesh mahlo.jpg" width="300">
+  <h3>My Photo</h3>
+  <p>Price: ₹199</p>
+</body>
+</html>
